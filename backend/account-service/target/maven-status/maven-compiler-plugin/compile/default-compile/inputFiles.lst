@@ -1,0 +1,5 @@
+/home/csm/Documents/gestion-compta-finance/backend/account-service/src/main/java/com/example/account/AccountServiceApplication.java
+/home/csm/Documents/gestion-compta-finance/backend/account-service/src/main/java/com/example/account/controller/AccountController.java
+/home/csm/Documents/gestion-compta-finance/backend/account-service/src/main/java/com/example/account/model/Account.java
+/home/csm/Documents/gestion-compta-finance/backend/account-service/src/main/java/com/example/account/repository/AccountRepository.java
+/home/csm/Documents/gestion-compta-finance/backend/account-service/src/main/java/com/example/account/service/AccountService.java
